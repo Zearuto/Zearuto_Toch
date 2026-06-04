@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Zandd.aternos.me:39087",
+    "ip": "Zandd.aternos.me",
     "port": 39087,
     "version": "1.21.1"
   },
